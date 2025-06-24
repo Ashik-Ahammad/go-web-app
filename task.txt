@@ -1,0 +1,7 @@
+-----> Containerization
+-----> CI --> GH ACTION
+-----> CD --> ArgoCD
+-----> Kubernetes EKS
+-----> HELM
+-----> Ingress
+
