@@ -31,3 +31,16 @@ aws --version
 ```sh
 aws configure
 ```
+
+## EKS Setup
+
+###### Install a EKS cluster with EKSCTL
+
+```sh
+eksctl create cluster --name your-cluster-name --region ap-southeast-1 
+```
+###### Delete the cluster
+
+```sh
+eksctl delete cluster --name your-cluster-name --region ap-southeast-1 
+```
